@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://0minnie0.tistory.com/
 
 <!--
 **minneee/minneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
